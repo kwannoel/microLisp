@@ -1,3 +1,5 @@
+{- | WIP... -}
+
 import           Control.Monad.State.Lazy (State)
 import           Data.Map.Lazy            (Map)
 import qualified Data.Map.Lazy            as M
