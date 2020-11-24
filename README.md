@@ -2,4 +2,8 @@
 
 Distill the core of a lisp - *Functions as Data*
 
-[**Reference**](https://mitpress.mit.edu/sites/default/files/sicp/code/ch4-mceval.scm)
+## References
+
+[**MCE Source**](https://mitpress.mit.edu/sites/default/files/sicp/code/ch4-mceval.scm)
+
+[**SICP - Chapter 4**](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-25.html#%_chap_4)
